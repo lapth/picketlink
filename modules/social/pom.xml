@@ -31,7 +31,7 @@
     <version.google.api.client>1.14.1-beta</version.google.api.client>
     <version.google.apis.plus>v1-rev69-1.14.2-beta</version.google.apis.plus>
     <version.google.apis.oauth>v2-rev36-1.14.2-beta</version.google.apis.oauth>
-    <version.jackson.core>1.9.9</version.jackson.core>
+    <version.jackson.core>1.9.13</version.jackson.core>
   </properties>
 
   <dependencies>
