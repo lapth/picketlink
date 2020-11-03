@@ -50,13 +50,13 @@
     <dependency>
 	  <groupId>org.bouncycastle</groupId>
       <artifactId>bcprov-jdk15on</artifactId>
-	  <version>1.50</version>
+	  <version>1.61</version>
 	  <scope>compile</scope>
 	</dependency>
 	<dependency>
 	  <groupId>org.bouncycastle</groupId>
 	  <artifactId>bcpkix-jdk15on</artifactId>
-	  <version>1.50</version>
+	  <version>1.61</version>
 	  <scope>compile</scope>
 	</dependency>
     <dependency>
