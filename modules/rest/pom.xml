@@ -42,7 +42,7 @@
   </organization>
 
   <properties>
-    <resteasy.version>2.3.6.Final</resteasy.version>
+    <resteasy.version>3.0.20.Final</resteasy.version>
     <arquillian.version>1.0.1.Final</arquillian.version>
     <weld.version>1.2.0.Beta1</weld.version>
     <jboss.bom.version>1.0.0.M7</jboss.bom.version>
