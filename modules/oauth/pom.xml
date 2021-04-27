@@ -43,7 +43,7 @@
   </organization>
 
   <properties>
-    <resteasy.version>2.3.6.Final</resteasy.version>
+    <resteasy.version>3.0.20.Final</resteasy.version>
     <jboss.bom.version>1.0.0.M7</jboss.bom.version>
     <javaee6.spec.version>3.0.2.Final</javaee6.spec.version>
     <jetty.version>8.1.9.v20130131</jetty.version>
